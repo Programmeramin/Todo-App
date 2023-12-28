@@ -1,0 +1,185 @@
+
+.todo-container{
+
+    background-color: rgb(0, 0, 0);
+
+    .todo-container{
+
+         display: flex;
+         align-items: center;
+         justify-content: space-between;
+
+
+         .todo-list{
+            text-align: center;
+            margin: auto;
+            margin-top: 20px;
+
+            h1{
+                font-family: sevillan;
+                font-weight: 400;
+                font-size: 50px;
+                color: white;
+                border-bottom: 5px solid green;
+            }
+
+            .create-item{
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+
+                .my-3{
+                    padding: 20px;
+
+                   input{
+                    
+                    border: none;
+                    
+                   }
+
+                   
+
+                }
+
+                button{
+
+                    padding: 8px 10px;
+                    margin-top: 20px;
+
+                }
+
+            }
+
+         .search{
+            position: relative;
+            width: 50%;
+            margin: auto;
+
+            svg{
+                position: absolute;
+                left: 88%;
+                top: 11px;
+                font-weight: 100;
+                font-size: 19px;
+                color: rgb(36, 36, 36);
+            }
+
+            input{
+                
+                width: 100%;
+                align-items: center;
+                margin-bottom: 10px;
+                padding: 8px;
+                border-radius: 10px;
+                border: none;
+            }
+
+         }
+
+         }
+
+    }
+
+    .todo-list-item{
+        width: 70%;
+        margin: auto;
+        margin-bottom: 30px;
+        border-radius: 10px;
+
+        
+      
+    .todo{
+        padding: 10px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        background-color: #838383;
+        margin-bottom: 10px;
+        border-radius: 10px;
+
+
+        .todo-element{
+    
+            padding: 10px;
+            margin-bottom: 10px;
+            justify-content: space-between;
+            
+            h1{
+
+                font-size: 25px;
+                font-weight: 600;
+                letter-spacing: 3px;
+                color: black;
+                font-family: Pacifico;
+            }
+
+            p{
+                font-size: 15px;
+                color: black;
+                font-weight: 600;
+                letter-spacing: 2px;
+                font-family: Pacifico;
+            }
+
+            span{
+                font-size: 15px;
+                font-weight: 600;
+                letter-spacing: 2px;
+                font-family: Pacifico;
+                color: blue;
+            }
+
+
+
+
+        }
+
+        .edit-update{
+           display: flex;
+           justify-content: space-between;
+           align-items: center;
+           gap: 10px;
+
+           button{
+            border: none;
+            
+           }
+
+        }
+
+
+    }
+
+     
+
+    }
+
+}
+
+
+
+.modal-element{
+
+width: 90%;
+margin: auto;
+.my-3{
+    color: black;
+    font-size: 20px;
+    width: 90%;
+    margin: auto;
+
+    input{
+        width: 100%;
+        background: #bbbbbb;
+        border: none;
+        border-radius: 10px;
+        padding: 6px;
+    }
+
+}
+
+.btn{
+    margin-left: 22px;
+}
+  
+}

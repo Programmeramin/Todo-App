@@ -1,0 +1,46 @@
+{
+  "todos": [
+    {
+      "title": "Md Amin Islam Khan",
+      "type": "Completed",
+      "date": "2023-12-29",
+      "id": 12
+    },
+    {
+      "title": "Please Create a Todo App Today",
+      "type": "Deleted",
+      "date": "2023-12-29",
+      "id": 13
+    },
+    {
+      "title": "This is Todo App",
+      "type": "Completed",
+      "date": "2023-12-29",
+      "id": 14
+    },
+    {
+      "title": "Hello World",
+      "type": "Deleted",
+      "date": "2023-12-13",
+      "id": 15
+    },
+    {
+      "title": "Go to Dhaka today",
+      "type": "Pending",
+      "date": "2023-12-21",
+      "id": 16
+    },
+    {
+      "title": "Go to Malaysia",
+      "type": "Pending",
+      "date": "2023-12-26",
+      "id": 17
+    },
+    {
+      "title": "Go to India on the go",
+      "type": "Completed",
+      "date": "2023-12-15",
+      "id": 18
+    }
+  ]
+}
